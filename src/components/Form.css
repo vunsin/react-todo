@@ -1,0 +1,31 @@
+.form {
+  /* 너비를 100%로 설정 */
+
+  background-color: white;
+
+  width: 100%;
+
+  /* 패딩 설정 */
+  padding-left: 0.75rem; /* px-3을 1rem으로 가정 */
+
+  padding-right: 0.75rem; /* px-3을 1rem으로 가정 */
+
+  padding-top: 0.5rem; /* py-2을 0.5rem으로 가정 */
+
+  padding-bottom: 0.5rem; /* py-2을 0.5rem으로 가정 */
+
+  /* 오른쪽 여백 설정 */
+  margin-right: 1rem; /* mr-4을 1rem으로 가정 */
+
+  /* 텍스트 색상 설정 */
+  color: #718096; /* text-gray-500의 색상 코드를 사용 */
+
+  /* 테두리 설정 */
+  border: 1px solid #e2e8f0; /* border로 시작하므로 색상과 선의 유형을 지정 */
+
+  /* 테두리를 둥글게 처리 */
+  border-radius: 0.25rem; /* rounded로 시작하므로 둥근 정도를 지정 */
+
+  /* 그림자 설정 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* shadow로 시작하므로 그림자의 유형과 색상을 지정 */
+}
